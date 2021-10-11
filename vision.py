@@ -12,3 +12,4 @@ print(with_coin.shape)
 print(without_coin.shape)
 print(template.shape)
 #print(template)
+
